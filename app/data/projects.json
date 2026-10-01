@@ -1,0 +1,27 @@
+[
+  {
+    "type": "webtoon",
+    "title": "Projet Webtoon",
+    "image": "/images/webtoon-cover.jpeg",
+    "description": "Concept visuel, storyboard, univers en développement.",
+    "category": "Webtoon",
+    "status": "En développement",
+    "date": "2025",
+    "author": "Chu Gong",
+    "adaptation": "Hyungun",
+    "genre": "Fantasy moderne"
+  },
+  {
+    "type": "webnovel",
+    "title": "Projet Webnovel",
+    "image": "/images/webnovel-cover.jpeg",
+    "description": "Narration, structure, personnages, ambiance.",
+    "category": "Webnovel",
+    "status": "Écriture",
+    "date": "2025",
+    "author": "Matteo",
+    "reedit": "Studio Moonshell",
+    "genre": "Fantasy émotionnelle"
+  }
+]
+  
